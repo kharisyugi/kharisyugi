@@ -2,7 +2,7 @@
 
 ![badge-codewars](https://www.codewars.com/users/kharisyugi/badges/micro)
 
-![stats-all](https://github-readme-stats.vercel.app/api?username=kharis12-web)
+![stats-all](https://github-readme-stats.vercel.app/api?username=kharisyugi)
 
 # Social Media
 * [About Me](https://stackoverflow.com/story/kharisyugi)
