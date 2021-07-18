@@ -6,6 +6,6 @@
 
 # Social Media
 * [About Me](https://stackoverflow.com/story/kharisyugi)
-* [Linkedin](https://www.linkedin.com/in/kharis yugi/)
+* [Linkedin](https://www.linkedin.com/in/kharisyugi/)
 * [Youtube](https://www.youtube.com/c/brayen)
 
